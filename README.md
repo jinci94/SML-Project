@@ -1,2 +1,2 @@
 # SML-Project
-Project for Statistical Machine learning V2020
+Project for Statistical Machine learning - spring 2020
